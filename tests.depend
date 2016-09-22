@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1474570557 source:f:\users\simon\documents\programmieren\tests\main.c
+	<stdio.h>
+	<windows.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+
