@@ -32,6 +32,8 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="loadShader.cpp" />
+		<Unit filename="loadShader.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

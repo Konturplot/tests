@@ -1,7 +1,29 @@
 # depslib dependency file v1.0
-1474570557 source:f:\users\simon\documents\programmieren\tests\main.c
+1475359432 source:f:\users\simon\documents\programmieren\tests\main.c
 	<stdio.h>
 	<windows.h>
 	<GL/glew.h>
 	<GLFW/glfw3.h>
+	"loadShader.h"
+
+1475355792 f:\users\simon\documents\programmieren\tests\loadshader.h
+
+1475357262 source:f:\users\simon\documents\programmieren\tests\loadshader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"loadShader.h"
+
+1475356015 source:f:\users\simon\documents\programmieren\tests\ccc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"loadShader.h"
 
